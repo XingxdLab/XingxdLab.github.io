@@ -24,11 +24,11 @@ repository               : "XingxdLab/XingxdLab.github.io"
 author:
   # Biographic information
   avatar           : "profile_xd.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Xudong Xing"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor at Beijing Institute of Genomics, Chinese Academy of Sciences (National Center for Bioinformation)"
   location         : "Beijing"
-  employer         : "Beijing Institute of Genomics, CAS（China National Center for Bioinformation"
+  employer         : "Beijing Institute of Genomics"
   uri              : # URL
   email            : "xingxd@big.ac.cn" 
 
