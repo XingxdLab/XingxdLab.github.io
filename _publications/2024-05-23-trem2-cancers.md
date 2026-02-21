@@ -2,7 +2,7 @@
 title: "Distinct roles of TREM2 in central nervous system cancers and peripheral cancers"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-05-23-trem2-cancers
+permalink: /publications/2024-05-23-trem2-cancers
 excerpt: 'This paper investigates the distinct roles of TREM2 in central nervous system and peripheral cancers, published in Cancer Cell.'
 date: 2024-05-23
 venue: 'Cancer Cell'
