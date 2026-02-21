@@ -40,15 +40,15 @@ Dr. Xing currently serves as Principal Investigator of several nationally resear
 2.  A Method for Analyzing B-Cell Receptor Characteristics of B Lymphocytes Based on Single-Cell Multi-Omics Sequencing (ZL 2021 1 1374293.6)
 
 ## Group Members
-SHI Xiaoyu，Postdoctoral fellow
-TIAN Shuoran，Postdoctoral fellow
-WANG Biying，Research Assistant
-LIU Yukuan，PhD student
-LI Rui，PhD student
-ZHANG Zhipeng，PhD student
-FU Hongyu，Msc student
-LI Xize, Msc student
-XU Xue, Msc student
+- SHI Xiaoyu，Postdoctoral fellow
+- TIAN Shuoran，Postdoctoral fellow
+- WANG Biying，Research Assistant
+- LIU Yukuan，PhD student
+- LI Rui，PhD student
+- ZHANG Zhipeng，PhD student
+- FU Hongyu，Msc student
+- LI Xize, Msc student
+- XU Xue, Msc student
 
 ## Awards and Honors
 Sponsored by Beijing Nova Program - 2025
