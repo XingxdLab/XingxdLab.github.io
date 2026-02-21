@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Xing Lab
 
 ## Introduction 
 The Xudong Xing research team pioneers the innovative application of bioinformatics theories, methodological frameworks, and integrated technical systems to address frontier challenges of biomedicine. The team’s research centers on deciphering the hallmarks and sex differences underlying cancer progression and therapeutic outcomes, aiming to accelerate the translational development of novel cancer treatment strategies. Lab members pursue multidisciplinary research to uncover how complex molecular circuits are organized, regulated, and reshaped by genetic and environmental influences, cellular differentiation, and disease.
