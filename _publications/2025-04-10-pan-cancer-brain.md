@@ -1,6 +1,7 @@
 ---
 title: "Pan-cancer human brain metastases atlas at single-cell resolution"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-04-10-pan-cancer-brain
 date: 2025-04-10
 venue: 'Cancer Cell'
