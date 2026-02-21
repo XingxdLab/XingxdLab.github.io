@@ -2,7 +2,7 @@
 title: "Sex differences orchestrated by androgens at single-cell resolution"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-04-10-sex-differences
+permalink: /publications/2024-04-10-sex-differences
 excerpt: 'This study explores sex differences orchestrated by androgens at single-cell resolution, published in Nature.'
 date: 2024-04-10
 venue: 'Nature'
