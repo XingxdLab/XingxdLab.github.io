@@ -1,9 +1,9 @@
 ---
-permalink: /
+permalink: /joinus/
 title: "Join us"
 author_profile: true
 redirect_from: 
-  - /joinus/
+  - /join-us/
   - /joinus.html
 ---
 
