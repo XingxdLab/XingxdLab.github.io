@@ -19,6 +19,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Join us"
+    url: /joinus
     
   # - title: "Portfolio"
   #   url: /portfolio/
