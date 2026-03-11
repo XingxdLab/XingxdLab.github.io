@@ -16,7 +16,8 @@ In recent years, they have published 10 articles in top-tier journals, including
 XING Xudong(邢旭东)
 
 ### Biography
-- 2024.10-Present, Principle Investigator，Beijing Institute of Genomics, CAS（China National Center for Bioinformation）
+- 2026.01-Present, Professor，Beijing Institute of Genomics, CAS（China National Center for Bioinformation）
+- 2024.10-2026.01, Principle Investigator，Beijing Institute of Genomics, CAS（China National Center for Bioinformation）
 - 2021.07-2024.09, BoYa Postdoctoral Researcher, Peking University
 - 2016.09-2021.07, Ph.D., Tsinghua University
 - 2011.09-2016.07, BS, Harbin Medical University
